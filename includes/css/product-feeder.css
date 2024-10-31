@@ -1,0 +1,31 @@
+.product-feeder-settings-page table.form-table tr th,
+.product-feeder-settings-page table.form-table tr td {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+.product-feeder-settings-page .product-feeder-sub-header {
+    color: grey !important;
+    font-size: 14px !important;
+    font-weight: 300 !important;
+}
+.product-feeder-settings-page .product-feeder-option-optional {
+    font-size: 85% !important;
+    color: orange; !important;
+}
+.product-feeder-settings-page select[multiple] {
+    min-height: 150px !important;
+}
+#product-feeder-settings input,
+#product-feeder-settings select {
+    width: 100% !important;
+    max-width: 25rem !important;
+}
+#product-feeder-settings .product-feeder-settings-header {
+    font-weight: 600;
+    font-size: 1.3rem;
+    text-decoration: underline;
+}
+#product-feeder-settings tr:has(.product-feeder-settings-header) > * {
+    padding-top: 25px !important;
+    border-top: 1px solid lightgray;
+}

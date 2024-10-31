@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Feeder\n"
+"Report-Msgid-Bugs-To: info@product-feeder.com\n"
+"POT-Creation-Date: 2023-05-16 10:00+0200\n"
+"PO-Revision-Date: 2023-11-29 14:46+0100\n"
+"Last-Translator: Product Feeder <info@product-feeder.com>\n"
+"Language-Team: English (United States)\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: product-feeder\n"
+
+msgid "Product Feeder"
+msgstr "Product Feeder"
+
+msgid "The Product Feeder plugin enables synchronization with multiple marketplace(s) through %s"
+msgstr "De Product Feeder plugin maakt synchronisatie mogelijk tussen verschillende marketplaces via %s"
+
+msgid "Failed to create/store the API Key"
+msgstr "Aanmaken/opslaan van de API Key is mislukt"
+
+msgid "Source credentials"
+msgstr "Bron gegevens"
+
+msgid "Website URL"
+msgstr "Website URL"
+
+msgid "API Key"
+msgstr "API Key"
+
+msgid "Use the source credentials shown below while creating the Product Feeder source"
+msgstr "Gebruik de onderstaande gegevens om de bron aan te maken in Product Feeder"
+
+msgid "Product settings"
+msgstr "Product instellingen"
+
+msgid "Missing option type"
+msgstr "Optie type ontbreekt"
+
+msgid "Invalid option type: %s"
+msgstr "Ongeldig optie type: %s"
+
+msgid "Missing options"
+msgstr "Opties ontbreken"
+
+msgid "Select an option"
+msgstr "Selecteer een optie"
+
+msgid "Select one or multiple options"
+msgstr "Selecteer één of meerdere opties"
+
+msgid "EAN field(s)"
+msgstr "EAN veld(en)"
+
+msgid "Size field(s)"
+msgstr "Maat veld(en)"
+
+msgid "Brand field(s)"
+msgstr "Merk veld(en)"
+
+msgid "Color field(s)"
+msgstr "Kleur veld(en)"
+
+msgid "Season field(s)"
+msgstr "Seizoen veld(en)"
+
+msgid "Gender field(s)"
+msgstr "Geslacht veld(en)"
+
+msgid "Material field(s)"
+msgstr "Materiaal veld(en)"
+
+msgid "Condition field(s)"
+msgstr "Conditie veld(en)"
+
+msgid "Delivery terms field(s)"
+msgstr "Leveringstermijn veld(en)"
+
+msgid "Optional"
+msgstr "Optioneel"
+
+msgid "Attribute"
+msgstr "Eigenschap"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Meta field"
+msgstr "Meta veld"
+
+msgid "Size field(s) are not selected. This is required to make the plugin function correctly"
+msgstr "Maat velden zijn nog niet geselecteerd. Dit is verplicht om de plugin correct te laten werken"
+
+msgid "Brand field is not selected. This is required to make the plugin function correctly"
+msgstr "Merk veld is nog niet geselecteerd. Dit is verplicht om de plugin correct te laten werken"
+
+msgid "Order status for new orders"
+msgstr "Status van nieuwe bestellingen"
+
+msgid "Order status for new orders is not selected. This is required to make the plugin function correctly"
+msgstr "Status van nieuwe bestellingen is nog niet geselecteerd. Dit is verplicht om de plugin correct te laten werken"
+
+msgid "Order %s from marketplace %s with a total price of %s is created by Product Feeder through channel %d - %s"
+msgstr "Bestelling %s uit marketplace %s met een totaal prijs van %s is aangemaakt door Product Feeder via kanaal %d - %s"
+
+msgid "Statuses for accepted orders"
+msgstr "Statussen van geaccepteerde bestellingen"
+
+msgid "Accepted order statuses are not selected. This is required to make the plugin function correctly"
+msgstr "Geacepteerde bestelling statussen zijn nog niet geselecteerd. Dit is verplicht om de plugin correct te laten werken"
+
+msgid "Failed to set status of new orders to: %s"
+msgstr "Opslaan van status voor niewe bestellingen: %s is mislukt"
+
+msgid "Failed to set accepted statuses for orders to: %s"
+msgstr "Opslaan van geacepteerde bestelling statussen naar: %s is mislukt"
+
+msgid "Statuses for rejected orders"
+msgstr "Statussen voor geannuleerde bestellingen"
+
+msgid "Statuses for rejected orders are not selected. This is required to make the plugin function correctly"
+msgstr "Statussen voor geannuleerde bestellingen zijn nog niet geselecteerd. Dit is verplicht om de plugin correct te laten werken"
+
+msgid "Failed to set statuses for rejected orders to: %s"
+msgstr "Opslaan van statussen voor geannuleerde bestellingen naar: %s is mislukt"
+
+msgid "Order settings"
+msgstr "Bestelling instellingen"
+
+msgid "Save settings"
+msgstr "Instellingen opslaan"
+
+msgid "Statuses for shipped orders"
+msgstr "Statussen van verstuurde bestellingen"
+
+msgid "Failed to set statuses for shipped orders to: %s"
+msgstr "Status van verzonden bestellingen is niet ingesteld op: %s"
+
+msgid "Changed order %s from marketplace %s with a total price of %s is synchronized by Product Feeder through channel %d - %s"
+msgstr "Gewijzigde bestelling %s uit marketplace %s met een totaal prijs van %s is gesynchroniseerd door Product Feeder via kanaal %d - %s"
+
+msgid "Rejected order %s from marketplace %s is synchronized by Product Feeder through channel %d - %s"
+msgstr "Geannuleerde bestelling %s uit marketplace %s is gesynchroniseerd door Product Feeder via kanaal %d - %s"
+
+msgid "Settings"
+msgstr "Instellingen"
